@@ -1,0 +1,21 @@
+.container {
+  width: 1400px;
+  margin: 0 auto;
+}
+.background {
+  height: 1950px;
+  background: linear-gradient(to right, #f6efd2, #dab986);
+}
+.video {
+  display: flex;
+  justify-content: center;
+}
+
+.list-2 {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  height: 100px;
+  align-items: center;
+  background: #e2b87a;
+}

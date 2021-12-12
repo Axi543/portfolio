@@ -1,0 +1,24 @@
+.text-div {
+  background: url(https://h2.hqtexture.com/104/10318/1458553357-29.jpg);
+  height: 850px;
+}
+.text-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.p {
+  font-size: 20px;
+}
+.text-div-2 {
+  display: flex;
+  flex-direction: column;
+}
+.text-div-3 {
+  display: flex;
+  flex-direction: column;
+}
+.text-div-4 {
+  display: flex;
+  flex-direction: column;
+}

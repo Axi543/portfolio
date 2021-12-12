@@ -1,0 +1,43 @@
+.header {
+  width: 1400px;
+  height: 1000px;
+  background: url(https://sun9-77.userapi.com/impg/AyIurNfErdr_YpKgW0ANeY3lkM4aQNLPJq5loA/nbOY3_lTFP0.jpg?size=1620x2160&quality=96&sign=9b228f376f7ae621946185fa4dfd8967&type=album);
+}
+.list-1 {
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-end;
+  height: 100px;
+  align-items: center;
+}
+.name {
+  width: 700px;
+  font-size: 20px;
+  font-family: serif;
+}
+.main {
+  width: 150px;
+}
+.portfolio {
+  width: 150px;
+}
+.I {
+  width: 150px;
+}
+.reviews {
+  width: 150px;
+}
+.contact {
+  width: 150px;
+}
+.title-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 1000px;
+  font-size: 20px;
+  font-family: cursive;
+  color: rgb(236, 226, 211);
+  text-shadow: 1px 1px 1px #000;
+}
